@@ -1,0 +1,19 @@
+# 📊 My Week Data Visualization with Matplotlib
+
+This mini project uses **Matplotlib in Jupyter Notebook** to visualize a week’s worth of daily activities — study hours, screen time, and sleep hours.
+
+It helped me practice beginner-level Matplotlib plotting functions and also push my first complete notebook project to GitHub 🚀
+
+---
+
+## ✅ Visualizations Included:
+- 📘 **Bar Chart** – Study hours per day
+- 📗 **Pie Chart** – Distribution of weekly time across activities
+- 📙 **Scatter Plot** – Sleep vs. Screen Time
+- 📕 **Subplots Dashboard** – Combined view of study and sleep patterns
+
+---
+
+## 💡 Topics Practiced:
+- `plt.plot()`, `bar()`, `pie()`, `scatter()`
+- Subplots usi
